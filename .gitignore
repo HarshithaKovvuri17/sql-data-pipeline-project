@@ -1,0 +1,9 @@
+# Generated data (must NOT go to GitHub)
+data/
+db/
+
+# Virtual environment
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
