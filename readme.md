@@ -4,10 +4,10 @@ This project builds a complete data pipeline using Python, Faker, DuckDB, and SQ
 It generates a synthetic e-commerce dataset (150k+ rows), loads it into DuckDB using an idempotent ETL script, and performs analysis with 50+ advanced SQL queries (joins, window functions, CTEs, subqueries).  
 A Jupyter Notebook presents selected business insights.
 
----
+
 
 ## Project Structure
-
+---
 sql-pipeline-project/
 ├── scripts/              # Data generation + loading
 │   ├── generate_data.py
